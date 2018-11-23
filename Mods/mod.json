@@ -1,0 +1,11 @@
+{
+    "Name": "RedefinedLances",
+    "Enabled": true,
+	
+    "Version": "1.0.0",
+
+    "Author": "Dr. Banzai",
+
+    "DependsOn": [],
+    "ConflictsWith": []	
+}
