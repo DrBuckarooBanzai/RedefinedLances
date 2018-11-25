@@ -89,6 +89,7 @@
             "items" : [
                "unit_mech",
 			   "unit_indirectFire"
+			   
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -120,12 +121,13 @@
             "items" : [
                "unit_mech",
                "unit_medium",
-			   "unit_lance_support"
+			   "unit_indirectFire"		   
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
             "items" : [
+			   "unit_lance_support",
                "unit_noncombatant",
 			   "unit_urbie"
             ],

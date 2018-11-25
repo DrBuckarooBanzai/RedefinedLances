@@ -65,6 +65,7 @@
          },
          "excludedUnitTagSet" : {
             "items" : [
+			   "unit_lance_support",
                "unit_noncombatant",
 			   "unit_urbie"
             ],
