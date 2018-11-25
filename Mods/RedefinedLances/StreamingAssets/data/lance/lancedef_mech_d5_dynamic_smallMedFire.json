@@ -65,7 +65,6 @@
          "excludedUnitTagSet" : {
             "items" : [
 			   "unit_lance_vanguard",
-               "unit_lance_tank",
                "unit_assault",
                "unit_heavy",
                "unit_noncombatant",
