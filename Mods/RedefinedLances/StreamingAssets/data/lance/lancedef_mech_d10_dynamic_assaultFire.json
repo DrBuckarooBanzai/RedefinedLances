@@ -93,8 +93,7 @@
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
-            "items" : [
-			   "unit_lance_vanguard",
+            "items" : [			   
                "unit_noncombatant",
 			   "unit_urbie"
             ],
