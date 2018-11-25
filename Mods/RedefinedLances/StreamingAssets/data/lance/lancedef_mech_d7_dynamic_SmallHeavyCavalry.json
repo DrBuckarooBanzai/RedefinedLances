@@ -28,7 +28,6 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "unit_indirectFire",
                "unit_jumpOK",
                "unit_mech",
                "unit_heavy"
