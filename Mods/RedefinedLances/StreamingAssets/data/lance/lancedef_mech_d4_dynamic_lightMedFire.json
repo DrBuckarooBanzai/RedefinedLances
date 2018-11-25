@@ -121,7 +121,7 @@
             "items" : [
                "unit_mech",
                "unit_medium",
-               "unit_lance_support"
+			   "unit_lance_tank"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
