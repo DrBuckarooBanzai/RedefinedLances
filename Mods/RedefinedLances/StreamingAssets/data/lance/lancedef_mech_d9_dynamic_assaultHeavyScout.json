@@ -91,7 +91,7 @@
             "items" : [
                "unit_assault",
                "unit_mech",
-               "unit_lance_assassin"
+               "unit_jumpOK"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

@@ -88,7 +88,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_mech",
-               "unit_lance_assassin"
+               "unit_jumpOK"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
