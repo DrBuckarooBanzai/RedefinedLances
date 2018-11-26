@@ -32,7 +32,7 @@
                     "unit_light",
                     "unit_mech",
                     "unit_lance_support",
-					"unit_jumpOK",
+		    "unit_jumpOK"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },

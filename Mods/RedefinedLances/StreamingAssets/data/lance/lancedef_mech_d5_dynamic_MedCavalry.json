@@ -61,7 +61,7 @@
             "items" : [
                "unit_mech",
                "unit_medium",               
-			   "unit_jumpOK",
+			   "unit_jumpOK"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

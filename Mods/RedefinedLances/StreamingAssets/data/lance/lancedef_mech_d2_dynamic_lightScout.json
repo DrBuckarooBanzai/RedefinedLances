@@ -96,7 +96,7 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_light",
-                    "unit_mech",
+                    "unit_mech"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },

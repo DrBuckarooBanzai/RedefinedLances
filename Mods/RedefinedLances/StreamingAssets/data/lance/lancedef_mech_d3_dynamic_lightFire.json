@@ -118,12 +118,12 @@
             "items" : [
                "unit_light",
                "unit_mech",               
-			   "unit_lance_assassin"               
+			   "unit_lance_assassin"              
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
-            "items" : [				
+            "items" : [
                "unit_noncombatant",
 			   "unit_urbie"
             ],

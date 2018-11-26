@@ -87,7 +87,7 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "unit_mech",               
+               "unit_mech"           
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

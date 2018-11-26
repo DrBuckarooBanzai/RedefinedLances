@@ -65,7 +65,7 @@
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
-            "items" : 
+            "items" : [
 			   "unit_lance_support",
                "unit_noncombatant",
 			   "unit_urbie"
@@ -90,7 +90,7 @@
          "unitTagSet" : {
             "items" : [
               "unit_mech",
-			  "unit_lance_support"              
+			  "unit_lance_support"             
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

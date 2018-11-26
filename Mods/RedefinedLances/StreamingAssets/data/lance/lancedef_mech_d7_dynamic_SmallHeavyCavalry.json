@@ -96,7 +96,7 @@
             "items" : [
                "unit_heavy",
                "unit_mech",
-			   "unit_jumpOK",
+			   "unit_jumpOK"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

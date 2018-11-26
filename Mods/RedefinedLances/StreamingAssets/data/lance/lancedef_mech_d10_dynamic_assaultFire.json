@@ -93,7 +93,7 @@
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
-            "items" : [			   
+            "items" : [
                "unit_noncombatant",
 			   "unit_urbie"
             ],
