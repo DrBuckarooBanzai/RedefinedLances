@@ -1,18 +1,18 @@
 {
   "Description": {
-    "Id": "lancedef_mech_d6_dynamic_smallMedHeavyFire",
-    "Name": "Dynamic Dif 6 Small Medium Fire",
+    "Id": "lancedef_mech_d5_dynamic_smallMedBattle",
+    "Name": "Dynamic Dif 5 Small Medium Battle",
     "Details": "",
     "Icon": "",
     "Cost": 0,
     "Rarity": 0,
     "Purchasable": false
   },
-   "Difficulty" : 6,
+   "Difficulty" : 5,
    "LanceTags" : {
       "items" : [
          "lance_bracket_med",
-         "lance_type_fire",
+         "lance_type_battle",
          "lance_type_medium",
 		 "lance_type_dynamic",
 		 "lance_type_mech",
@@ -29,22 +29,24 @@
          "unitTagSet" : {
             "items" : [
                "unit_mech",
-               "unit_medium",
-               "unit_lance_assassin"
+              "unit_light",
+              "unit_lance_vanguard"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
             "items" : [
+               "unit_lance_tank",
+               "unit_lance_support",
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech"
             ],
-			"tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile" : "Tags/UnitTags"
          },
          "pilotTagSet" : {
             "items" : [
-               "pilot_npc_d6"
+               "pilot_npc_d5"
             ],
             "tagSetSourceFile" : "Tags/PilotTags"
          },
@@ -60,22 +62,22 @@
          "unitTagSet" : {
             "items" : [
                "unit_mech",
-               "unit_heavy",
-			   "unit_lance_tank"
+               "unit_medium",
+               "unit_lance_tank"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
-            "items" : [                        
+            "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+			"tagSetSourceFile" : "Tags/UnitTags"
          },
          "pilotTagSet" : {
             "items" : [
-               "pilot_npc_d6"
+               "pilot_npc_d5"
             ],
             "tagSetSourceFile" : "Tags/PilotTags"
          },
@@ -90,16 +92,15 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "unit_mech"               
+               "unit_mech",
+               "unit_heavy"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
             "items" : [
-               "unit_assault",
-               "unit_light",
-			   "unit_lance_vanguard",
-			   "unit_lance_tank",               
+               "unit_lance_assassin",
+               "unit_lance_vanguard",
                "unit_noncombatant",
 			   "unit_urbie"
             ],
@@ -107,7 +108,7 @@
          },
          "pilotTagSet" : {
             "items" : [
-               "pilot_npc_d6"
+               "pilot_npc_d5"
             ],
             "tagSetSourceFile" : "Tags/PilotTags"
          },
@@ -115,6 +116,6 @@
             "items" : null,
             "tagSetSourceFile" : "Tags/PilotTags"
          }
-      }     
+      }
    ]
 }

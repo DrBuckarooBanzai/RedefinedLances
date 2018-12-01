@@ -66,7 +66,9 @@
                "unit_lance_vanguard",
 			   "unit_lance_tank",
                "unit_noncombatant",
-			   "unit_urbie"
+			   "unit_urbie",
+			   "unit_LosTech",
+			   "unit_LosTech"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -96,7 +98,9 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie"
+			   "unit_urbie",
+			   "unit_LosTech",
+			   "unit_LosTech"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -126,7 +130,9 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie"
+			   "unit_urbie",
+			   "unit_LosTech",
+			   "unit_LosTech"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
