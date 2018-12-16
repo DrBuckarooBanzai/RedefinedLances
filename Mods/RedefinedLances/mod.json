@@ -1,5 +1,5 @@
 {
-    "Name": "DrBanzaiRedefinedLances",
+    "Name": "RedefinedLances",
     "Enabled": true,
 	
     "Version": "1.0.0",
@@ -7,5 +7,9 @@
     "Author": "Dr. Banzai",
 
     "DependsOn": [],
-    "ConflictsWith": []	
+    "ConflictsWith": [],	
+		
+	"Manifest": [
+		{ "Type": "MechDef", "Path": "mech", "ShouldMergeJSON": true, "AddToDB": false }
+    ]	
 }
