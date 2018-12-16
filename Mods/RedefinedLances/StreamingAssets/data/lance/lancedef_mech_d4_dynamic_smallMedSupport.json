@@ -38,10 +38,9 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_indirectFire",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -75,7 +74,7 @@
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -97,7 +96,7 @@
          "unitTagSet" : {
             "items" : [
               "{CUR_TEAM.faction}",
-               "unit_mech",
+              "unit_mech",
 			  "unit_lance_support"             
             ],
             "tagSetSourceFile" : "Tags/UnitTags"

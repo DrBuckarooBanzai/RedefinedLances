@@ -37,8 +37,8 @@
             "items" : [
 				"unit_noncombatant",
 				"unit_urbie",
-			   "unit_LosTech",
-			   "unit_Rare"
+			    "unit_LosTech",
+			    "unit_rare"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -100,8 +100,8 @@
             "items" : [
 				"unit_noncombatant",
 				"unit_urbie",
-			   "unit_LosTech",
-			   "unit_Rare"
+			    "unit_LosTech",
+			    "unit_rare"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -134,8 +134,8 @@
             "items" : [
 				"unit_noncombatant",
 				"unit_urbie",
-			   "unit_LosTech",
-			   "unit_Rare"
+			    "unit_LosTech",
+			    "unit_rare"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"

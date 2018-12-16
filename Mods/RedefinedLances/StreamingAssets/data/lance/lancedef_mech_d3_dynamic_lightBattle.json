@@ -126,7 +126,7 @@
                "unit_light",
                "{CUR_TEAM.faction}",
                "unit_mech",
-			   "unit_lance_assassin",
+			   "unit_lance_support",
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

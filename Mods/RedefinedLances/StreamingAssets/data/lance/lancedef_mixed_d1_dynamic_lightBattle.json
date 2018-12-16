@@ -38,7 +38,7 @@
 				"unit_noncombatant",
 				"unit_urbie",
 			    "unit_LosTech",
-			   "unit_Rare"
+			    "unit_rare"
 			],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -70,7 +70,7 @@
 				"unit_noncombatant",
 				"unit_urbie",
 			    "unit_LosTech",
-			   "unit_Rare"
+			    "unit_rare"
 			],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -102,7 +102,7 @@
 				"unit_noncombatant",
 				"unit_urbie",
 			    "unit_LosTech",
-			   "unit_Rare"
+			    "unit_rare"
 			],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -126,7 +126,7 @@
                "unit_light",
                "{CUR_TEAM.faction}",
                "unit_mech",
-               "unit_lance_vanguard"
+               "unit_lance_tank"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -135,7 +135,7 @@
 				"unit_noncombatant",
 				"unit_urbie",
 				"unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
 			],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

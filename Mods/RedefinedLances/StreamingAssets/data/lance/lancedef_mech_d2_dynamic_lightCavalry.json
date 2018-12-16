@@ -16,7 +16,7 @@
             "lance_type_dynamic",
             "lance_type_light",
             "lance_type_mech",
-		 "lance_type_notallvehicles"
+			"lance_type_notallvehicles"
         ],
         "tagSetSourceFile" : "Tags/LanceTags"
     },
@@ -31,7 +31,7 @@
                 "items" : [
                     "unit_light",
                     "{CUR_TEAM.faction}",
-               "unit_mech",
+					"unit_mech",
                     "unit_lance_support",
 					"unit_jumpOK"
                 ],
@@ -42,7 +42,7 @@
                     "unit_noncombatant",
                     "unit_urbie",		   
 					"unit_LosTech",
-			   "unit_Rare"
+					"unit_rare"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },
@@ -69,7 +69,7 @@
                     "unit_jumpOK",
                     "unit_light",
                     "{CUR_TEAM.faction}",
-               "unit_mech",
+					"unit_mech",
                     "unit_lance_assassin"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
@@ -79,7 +79,7 @@
                     "unit_noncombatant",
                     "unit_urbie",			   
 					"unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },
@@ -106,7 +106,7 @@
                     "unit_jumpOK",
                     "unit_light",
                     "{CUR_TEAM.faction}",
-               "unit_mech"
+					"unit_mech"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },

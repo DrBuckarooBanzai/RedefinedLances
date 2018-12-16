@@ -96,8 +96,7 @@
             "items" : [
                "{CUR_TEAM.faction}",
                "unit_mech",
-               "unit_lance_assassin"
-               
+               "unit_lance_assassin"               
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
