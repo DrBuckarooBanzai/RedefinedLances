@@ -28,6 +28,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_lance_support"
             ],
@@ -58,6 +59,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_indirectFire"
             ],
@@ -65,10 +67,11 @@
          },
          "excludedUnitTagSet" : {
             "items" : [
-			   "unit_lance_support",
+			   "unit_lance_tank",
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -90,6 +93,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech",
 			   "unit_indirectFire"
             ],
@@ -98,8 +102,8 @@
          "excludedUnitTagSet" : {
             "items" : [              
                "unit_noncombatant",
-			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_jumpOK",
+			   "unit_urbie"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -121,6 +125,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech",
 			   "unit_lance_support"
             ],
@@ -129,8 +134,10 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
+			   "unit_indirectFire",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },

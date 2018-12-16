@@ -27,9 +27,10 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_medium",
-               "unit_lance_assassin"
+               "unit_lance_tank"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -37,7 +38,8 @@
             "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -58,17 +60,20 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_mech",
-               "unit_medium",
-			   "unit_lance_tank"
+               "unit_medium"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
             "items" : [                          
                "unit_noncombatant",
+			   "unit_lance_vanguard",
+			   "unit_lance_tank",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -89,7 +94,8 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "unit_mech"           
+               "{CUR_TEAM.faction}",
+               "unit_mech"          
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -119,7 +125,9 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_mech"
+			   "unit_lance_assassin",
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -127,11 +135,10 @@
             "items" : [
                "unit_assault",
                "unit_light",
-               "unit_lance_vanguard",
-			   "unit_lance_tank",
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

@@ -29,6 +29,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_light",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_lance_support"
             ],
@@ -59,6 +60,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_light",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_lance_support"
             ],
@@ -68,7 +70,9 @@
             "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_indirectFire",
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -90,6 +94,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_light",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_indirectFire"
             ],
@@ -99,7 +104,8 @@
             "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -121,6 +127,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_light",
+               "{CUR_TEAM.faction}",
                "unit_mech",
 			   "unit_lance_support"
             ],
@@ -130,7 +137,8 @@
             "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },

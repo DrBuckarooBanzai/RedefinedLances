@@ -28,6 +28,7 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_jumpOK"
             ],
@@ -35,11 +36,13 @@
          },
          "excludedUnitTagSet" : {
             "items" : [
-               "unit_assault",
+               "unit_medium",
                "unit_light",
                "unit_noncombatant",
+			   "unit_lance_vanguard"
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -61,8 +64,43 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_jumpOK"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "excludedUnitTagSet" : {
+            "items" : [
+               "unit_noncombatant",
+			   "unit_lance_vanguard"
+			   "unit_urbie",
+			   "unit_LosTech",
+			   "unit_Rare"
+            ],
+			"tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "pilotTagSet" : {
+            "items" : [
+               "pilot_npc_d9"
+            ],
+            "tagSetSourceFile" : "Tags/PilotTags"
+         },
+         "excludedPilotTagSet" : {
+            "items" : null,
+            "tagSetSourceFile" : "Tags/PilotTags"
+         }
+      },
+      {
+         "unitType" : "Mech",
+         "unitId" : "Tagged",
+         "pilotId" : "Tagged",
+         "unitTagSet" : {
+            "items" : [
+               "unit_assault",
+               "{CUR_TEAM.faction}",
+               "unit_mech",
+               "unit_lance_vanguard"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -70,7 +108,8 @@
             "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -92,36 +131,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
-               "unit_mech",
-               "unit_jumpOK"
-            ],
-            "tagSetSourceFile" : "Tags/UnitTags"
-         },
-         "excludedUnitTagSet" : {
-            "items" : [
-               "unit_noncombatant",
-			   "unit_urbie"
-            ],
-			"tagSetSourceFile" : "Tags/UnitTags"
-         },
-         "pilotTagSet" : {
-            "items" : [
-               "pilot_npc_d9"
-            ],
-            "tagSetSourceFile" : "Tags/PilotTags"
-         },
-         "excludedPilotTagSet" : {
-            "items" : null,
-            "tagSetSourceFile" : "Tags/PilotTags"
-         }
-      },
-      {
-         "unitType" : "Mech",
-         "unitId" : "Tagged",
-         "pilotId" : "Tagged",
-         "unitTagSet" : {
-            "items" : [
-               "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech",
 			   "unit_lance_vanguard"
             ],
@@ -130,8 +140,7 @@
          "excludedUnitTagSet" : {
             "items" : [               
                "unit_noncombatant",
-			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_urbie"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

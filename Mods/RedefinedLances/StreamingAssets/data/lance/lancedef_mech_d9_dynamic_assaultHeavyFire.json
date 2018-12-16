@@ -28,7 +28,8 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "unit_assault",
+               "unit_heavy",
+               "{CUR_TEAM.faction}",
                "unit_mech",
 			   "unit_lance_tank"
             ],
@@ -38,7 +39,8 @@
             "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -60,6 +62,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
+               "{CUR_TEAM.faction}",
                "unit_mech"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -70,7 +73,8 @@
 			   "unit_lance_tank",
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -92,6 +96,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -120,7 +125,8 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "unit_heavy",
+               "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech",
 			   "unit_lance_assassin"              
             ],
@@ -130,7 +136,8 @@
             "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

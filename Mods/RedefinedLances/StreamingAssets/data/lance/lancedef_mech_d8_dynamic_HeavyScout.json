@@ -27,6 +27,7 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_jumpOK"
             ],
@@ -37,8 +38,10 @@
                "unit_assault",
                "unit_light",
                "unit_noncombatant",
+			   "unit_lance_vanguard",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -60,6 +63,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_lance_vanguard"
             ],
@@ -68,8 +72,7 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_urbie"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -91,6 +94,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_lance_vanguard"
             ],
@@ -100,7 +104,8 @@
             "items" : [
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -122,6 +127,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
+               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_jumpOK"
             ],
@@ -130,7 +136,10 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie"
+			   "unit_urbie",			   
+               "unit_lance_vanguard",
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
