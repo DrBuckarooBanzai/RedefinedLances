@@ -1,0 +1,29 @@
+{
+   "VehicleTags": {
+      "items": [
+         "unit_vehicle",
+         "unit_medium",
+         "unit_wheels",
+		 "unit_release",
+		 "unit_rare",
+         "MagistracyOfCanopus",
+         "TaurianConcordat",
+         "Liao",
+         "Marik",
+         "Davion",
+         "Steiner",
+         "Kurita",
+         "ComStar",
+         "AuriganDirectorate",
+         "Betrayers",
+         "AuriganMercenaries",
+         "AuriganPirates",
+         "AuriganRestoration",
+         "Locals",
+         "MajestyMetals",
+         "MercenaryReviewBoard",
+         "NoFaction"
+      ],
+      "tagSetSourceFile": ""
+   },
+}

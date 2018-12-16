@@ -1,0 +1,28 @@
+{
+  "VehicleTags": {
+     "items": [
+        "unit_vehicle",
+        "unit_heavy",
+        "unit_tracks",
+		"unit_common",
+		"MagistracyOfCanopus",
+		"TaurianConcordat",
+		"Liao",
+		"Marik",
+		"Davion",
+		"Steiner",
+		"Kurita",
+		"ComStar",
+		"AuriganDirectorate",
+		"Betrayers",
+		"AuriganMercenaries",
+		"AuriganPirates",
+		"AuriganRestoration",
+		"Locals",
+		"MajestyMetals",
+		"MercenaryReviewBoard",
+		"NoFaction"
+      ],
+      "tagSetSourceFile": ""
+   },
+}
