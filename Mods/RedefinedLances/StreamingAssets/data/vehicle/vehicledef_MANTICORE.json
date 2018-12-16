@@ -5,6 +5,7 @@
          "unit_heavy",
          "unit_tracks",
 		 "unit_release",
+		 "unit_rare",
 		 "MagistracyOfCanopus",
 		 "TaurianConcordat",
 		 "Liao",
@@ -22,7 +23,6 @@
 		 "MajestyMetals",
 		 "MercenaryReviewBoard",
 		 "NoFaction"
-      ],
-      "tagSetSourceFile": ""
-   },
+      ]
+   }
 }

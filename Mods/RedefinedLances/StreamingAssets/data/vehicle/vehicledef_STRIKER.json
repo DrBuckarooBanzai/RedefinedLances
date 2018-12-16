@@ -4,7 +4,6 @@
          "unit_vehicle",
          "unit_medium",
          "unit_wheels",
-		 "unit_release",
          "MagistracyOfCanopus",
          "TaurianConcordat",
          "Liao",
@@ -22,7 +21,6 @@
          "MajestyMetals",
          "MercenaryReviewBoard",
          "NoFaction"
-      ],
-      "tagSetSourceFile": ""
-   },
+      ]
+   }
 }
