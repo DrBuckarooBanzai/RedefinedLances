@@ -1,10 +1,9 @@
 {
     "MechTags": {
         "items": [
-            "KSBeta",
+            "unit_jumpOK",
             "unit_mech",
-            "unit_heavy",
-			"unit_lance_assassin",
+            "unit_medium",            
 			"unit_lance_support",
             "unit_role_brawler",
             "unit_release"
