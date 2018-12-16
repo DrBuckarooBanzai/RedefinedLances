@@ -1,0 +1,30 @@
+{
+    "MechTags": {
+        "items": [
+            "unit_mech",
+            "unit_heavy",
+            "unit_indirectFire",
+            "unit_lance_tank",
+            "unit_role_brawler",
+            "unit_release",
+			"unit_common",
+			"MagistracyOfCanopus",
+			"TaurianConcordat",
+			"Liao",
+			"Marik",
+			"Davion",
+			"Steiner",
+			"Kurita",
+			"ComStar",
+			"AuriganDirectorate",
+			"Betrayers",
+			"AuriganMercenaries",
+			"AuriganPirates",
+			"AuriganRestoration",
+			"Locals",
+			"MajestyMetals",
+			"MercenaryReviewBoard",
+			"NoFaction"
+        ]
+    }
+}

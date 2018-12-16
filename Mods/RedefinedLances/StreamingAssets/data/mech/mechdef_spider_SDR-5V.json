@@ -1,0 +1,30 @@
+{
+    "MechTags": {
+        "items": [
+            "unit_jumpOK",
+            "unit_mech",
+            "unit_light",
+            "unit_lance_vanguard",
+            "unit_role_scout",
+            "unit_release",
+			"unit_uncommon",
+			"MagistracyOfCanopus",
+			"TaurianConcordat",
+			"Liao",
+			"Marik",
+			"Davion",
+			"Steiner",
+			"Kurita",
+			"ComStar",
+			"AuriganDirectorate",
+			"Betrayers",
+			"AuriganMercenaries",
+			"AuriganPirates",
+			"AuriganRestoration",
+			"Locals",
+			"MajestyMetals",
+			"MercenaryReviewBoard",
+			"NoFaction"
+        ]
+    }
+}

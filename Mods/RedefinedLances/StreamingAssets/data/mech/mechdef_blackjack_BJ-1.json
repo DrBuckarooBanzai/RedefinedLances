@@ -6,7 +6,25 @@
             "unit_medium",            
 			"unit_lance_support",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+			"unit_uncommon",
+			"MagistracyOfCanopus",
+			"TaurianConcordat",
+			"Liao",
+			"Marik",
+			"Davion",
+			"Steiner",
+			"Kurita",
+			"ComStar",
+			"AuriganDirectorate",
+			"Betrayers",
+			"AuriganMercenaries",
+			"AuriganPirates",
+			"AuriganRestoration",
+			"Locals",
+			"MajestyMetals",
+			"MercenaryReviewBoard",
+			"NoFaction"
         ]
     }
 }

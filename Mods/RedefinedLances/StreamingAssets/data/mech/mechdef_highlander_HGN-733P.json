@@ -1,0 +1,29 @@
+{
+    "MechTags": {
+        "items": [
+            "unit_mech",
+            "unit_assault",
+            "unit_lance_support",
+            "unit_role_brawler",
+            "unit_release",
+			"unit_rare",
+			"unit_ext_rare_MagistracyOfCanopus",
+			"unit_ext_rare_TaurianConcordat",
+			"Liao",
+			"Marik",
+			"Davion",
+			"Steiner",
+			"Kurita",
+			"ComStar",
+			"AuriganDirectorate",
+			"Betrayers",
+			"AuriganMercenaries",
+			"AuriganPirates",
+			"AuriganRestoration",
+			"Locals",
+			"MajestyMetals",
+			"MercenaryReviewBoard",
+			"NoFaction"
+        ]
+    }
+}

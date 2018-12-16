@@ -7,6 +7,23 @@
             "unit_lance_tank",
 			"unit_lance_support",
             "unit_role_sniper"
+			"MagistracyOfCanopus",
+			"TaurianConcordat",
+			"Liao",
+			"Marik",
+			"Davion",
+			"Steiner",
+			"Kurita",
+			"ComStar",
+			"AuriganDirectorate",
+			"Betrayers",
+			"AuriganMercenaries",
+			"AuriganPirates",
+			"AuriganRestoration",
+			"Locals",
+			"MajestyMetals",
+			"MercenaryReviewBoard",
+			"NoFaction"
         ]
     }
 }

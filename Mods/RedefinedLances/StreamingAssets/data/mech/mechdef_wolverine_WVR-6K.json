@@ -5,7 +5,25 @@
             "unit_medium",
             "unit_lance_tank",
             "unit_role_scout",
-            "unit_release"
+            "unit_release",
+			"unit_rare",
+			"unit_ext_rare_MagistracyOfCanopus",
+			"unit_ext_rare_TaurianConcordat",
+			"unit_ext_rare_Liao",
+			"unit_ext_rare_Marik",
+			"Davion",
+			"Steiner",
+			"Kurita",
+			"ComStar",
+			"unit_ext_rare_AuriganDirectorate",
+			"Betrayers",
+			"AuriganMercenaries",
+			"AuriganPirates",
+			"AuriganRestoration",
+			"Locals",
+			"unit_ext_rare_MajestyMetals",
+			"MercenaryReviewBoard",
+			"NoFaction"
         ]
     }
 }
