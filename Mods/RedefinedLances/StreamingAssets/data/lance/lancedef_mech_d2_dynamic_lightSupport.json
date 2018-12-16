@@ -75,10 +75,9 @@
             "excludedUnitTagSet" : {
                 "items" : [
                     "unit_noncombatant",
-                    "unit_urbie",
-					"unit_indirectFire",					
+                    "unit_urbie",				
 					"unit_LosTech",
-			   "unit_rare"
+					"unit_rare"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },

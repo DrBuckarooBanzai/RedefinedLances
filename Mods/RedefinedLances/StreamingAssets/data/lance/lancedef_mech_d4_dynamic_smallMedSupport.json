@@ -70,8 +70,7 @@
          },
          "excludedUnitTagSet" : {
             "items" : [
-			   "unit_jumpOK",
-               "unit_noncombatant",
+			   "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech",
 			   "unit_rare"

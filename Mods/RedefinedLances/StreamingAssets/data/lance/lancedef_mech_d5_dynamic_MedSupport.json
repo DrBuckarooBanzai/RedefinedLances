@@ -68,10 +68,9 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_indirectFire",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -104,7 +103,7 @@
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -134,11 +133,10 @@
          },
          "excludedUnitTagSet" : {
             "items" : [
-               "unit_jumpOK",
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

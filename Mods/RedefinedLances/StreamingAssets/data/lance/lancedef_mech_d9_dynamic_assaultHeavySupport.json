@@ -40,9 +40,8 @@
                "unit_medium",
                "unit_noncombatant",
 			   "unit_urbie",
-			   "unit_indirectFire",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -104,11 +103,10 @@
             "items" : [
                "unit_light",
                "unit_medium",
-			   "unit_jumpOK",
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -142,7 +140,7 @@
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
