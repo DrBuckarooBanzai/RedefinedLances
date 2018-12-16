@@ -2,15 +2,10 @@
     "MechTags": {
         "items": [
             "unit_indirectFire",
-            "unit_release",
             "unit_mech",
             "unit_medium",
-            "unit_ready",
-            "unit_lance_tank",
-            "unit_role_brawler",
-			"unit_uncommon",
-			"MagistracyOfCanopus",
-			"TaurianConcordat",
+            "unit_lance_support",
+            "unit_role_brawler",			
 			"Liao",
 			"Marik",
 			"Davion",

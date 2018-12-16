@@ -7,24 +7,9 @@
             "unit_lance_support",
             "unit_role_sniper",
             "unit_release",
-			"unit_uncommon",
-			"unit_none_MagistracyOfCanopus",
-			"unit_none_TaurianConcordat",
-			"unit_none_Liao",
-			"Marik",
-			"Davion",
 			"Steiner",
-			"Kurita",
-			"ComStar",
-			"AuriganDirectorate",
-			"Betrayers",
-			"AuriganMercenaries",
-			"AuriganPirates",
-			"AuriganRestoration",
-			"Locals",
-			"unit_none_MajestyMetals",
-			"MercenaryReviewBoard",
-			"NoFaction"
+			"AuriganMercenaries",	
+			"MercenaryReviewBoard"
         ]
     }
 }

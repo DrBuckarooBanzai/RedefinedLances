@@ -8,24 +8,9 @@
             "unit_lance_vanguard",
             "unit_role_brawler",
 			"unit_release",
-			"unit_rare",
-			"unit_none_MagistracyOfCanopus",
-			"unit_ext_rare_TaurianConcordat",
-			"Liao",
-			"unit_ext_rare_Marik",
-			"Davion",
-			"unit_none_Steiner",
-			"unit_ext_rare_Kurita",
-			"unit_ext_rare_ComStar",
-			"unit_ext_rare_AuriganDirectorate",
-			"unit_ext_rare_Betrayers",
-			"unit_ext_rare_AuriganMercenaries",
-			"unit_ext_rare_AuriganPirates",
-			"unit_ext_rare_AuriganRestoration",
-			"unit_ext_rare_Locals",
-			"unit_none_MajestyMetals",
-			"unit_ext_rare_MercenaryReviewBoard",
-			"unit_ext_rare_NoFaction"
+			"unit_rare",			
+			"Liao",			
+			"Davion"	
         ]
     }
 }

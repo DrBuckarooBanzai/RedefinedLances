@@ -7,24 +7,8 @@
 			"unit_lance_support",
             "unit_role_brawler",
             "unit_release",
-			"unit_rare",
-			"MagistracyOfCanopus",
-			"unit_ext_rare_TaurianConcordat",
-			"Liao",
-			"Marik",
-			"unit_ext_rare_Davion",
-			"Steiner",
-			"unit_ext_rare_Kurita",
-			"ComStar",
-			"AuriganDirectorate",
-			"Betrayers",
-			"AuriganMercenaries",
-			"AuriganPirates",
-			"AuriganRestoration",
-			"Locals",
-			"MajestyMetals",
-			"MercenaryReviewBoard",
-			"NoFaction"
-        ]
+			"unit_rare",			
+			"Marik"
+		]
     }
 }

@@ -6,24 +6,8 @@
             "unit_lance_assassin",
             "unit_role_brawler",
             "unit_release",
-			"unit_rare",
-			"unit_none_MagistracyOfCanopus",
-			"unit_none_TaurianConcordat",
-			"Liao",
-			"unit_none_Marik",
-			"unit_none_Davion",
-			"unit_none_Steiner",
-			"unit_none_Kurita",
-			"unit_none_ComStar",
-			"unit_none_AuriganDirectorate",
-			"unit_ext_rare_Betrayers",
-			"unit_ext_rare_AuriganMercenaries",
-			"unit_ext_rare_AuriganPirates",
-			"unit_ext_rare_AuriganRestoration",
-			"unit_ext_rare_Locals",
-			"unit_ext_rare_MajestyMetals",
-			"unit_ext_rare_MercenaryReviewBoard",
-			"unit_ext_rare_NoFaction"
+			"unit_rare",			
+			"Liao"
         ]
     }
 }

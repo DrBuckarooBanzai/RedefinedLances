@@ -7,23 +7,7 @@
             "unit_lance_support",
             "unit_role_sniper",
 			"unit_rare",
-			"unit_ext_rare_MagistracyOfCanopus",
-			"unit_ext_rare_TaurianConcordat",
-			"unit_ext_rare_Liao",
-			"unit_ext_rare_Marik",
-			"Davion",
-			"Steiner",
-			"Kurita",
-			"unit_ext_rare_ComStar",
-			"unit_ext_rare_AuriganDirectorate",
-			"Betrayers",
-			"AuriganMercenaries",
-			"AuriganPirates",
-			"AuriganRestoration",
-			"Locals",
-			"MajestyMetals",
-			"MercenaryReviewBoard",
-			"NoFaction"
+			"Kurita"
         ]
     }
 }
