@@ -29,7 +29,8 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_heavy",
-                    "unit_vehicle"
+                    "{CUR_TEAM.faction}",
+               "unit_vehicle"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },
@@ -60,7 +61,8 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_heavy",
-                    "unit_vehicle"
+                    "{CUR_TEAM.faction}",
+               "unit_vehicle"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },
@@ -68,7 +70,8 @@
                 "items" : [
                     "unit_noncombatant",
                     "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },
@@ -92,7 +95,8 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_medium",
-                    "unit_vehicle"
+                    "{CUR_TEAM.faction}",
+               "unit_vehicle"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },
@@ -100,7 +104,8 @@
                 "items" : [
                     "unit_noncombatant",
                     "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },
@@ -124,7 +129,8 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_medium",
-                    "unit_vehicle"
+                    "{CUR_TEAM.faction}",
+               "unit_vehicle"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },
@@ -132,7 +138,8 @@
                 "items" : [
                     "unit_noncombatant",
                     "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
             },

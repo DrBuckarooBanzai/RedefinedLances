@@ -28,6 +28,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -35,8 +36,7 @@
          "excludedUnitTagSet" : {
             "items" : [
 				"unit_noncombatant",
-				"unit_urbie",
-			   "unit_LosTech"
+				"unit_urbie"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -59,6 +59,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -88,6 +89,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -96,7 +98,8 @@
             "items" : [
 				"unit_noncombatant",
 				"unit_urbie",
-			   "unit_LosTech"
+			    "unit_LosTech",
+			   "unit_Rare"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -119,6 +122,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
+               "{CUR_TEAM.faction}",
                "unit_mech"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -126,8 +130,9 @@
          "excludedUnitTagSet" : {
             "items" : [
 				"unit_noncombatant",
-				"unit_urbie",
-			   "unit_LosTech"
+				"unit_urbie",				
+			    "unit_LosTech",
+			   "unit_Rare"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"

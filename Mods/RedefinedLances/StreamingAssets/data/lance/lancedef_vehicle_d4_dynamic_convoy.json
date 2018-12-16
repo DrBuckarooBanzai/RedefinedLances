@@ -22,6 +22,7 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_vehicle",
 			   "unit_noncombatant",
                 "unit_medium"
@@ -51,6 +52,7 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_vehicle",
 			   "unit_vehicle_apc",
 			   "unit_noncombatant",
@@ -61,7 +63,8 @@
          "excludedUnitTagSet" : {
             "items" : [
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -82,6 +85,7 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_vehicle",
 			   "unit_vehicle_apc",
 			   "unit_noncombatant",
@@ -92,7 +96,8 @@
          "excludedUnitTagSet" : {
             "items" : [
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -113,6 +118,7 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
+               "{CUR_TEAM.faction}",
                "unit_vehicle",
 			   "unit_vehicle_apc",
 			   "unit_noncombatant",
@@ -123,7 +129,8 @@
          "excludedUnitTagSet" : {
             "items" : [
 			   "unit_urbie",
-			   "unit_LosTech"
+			   "unit_LosTech",
+			   "unit_Rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
