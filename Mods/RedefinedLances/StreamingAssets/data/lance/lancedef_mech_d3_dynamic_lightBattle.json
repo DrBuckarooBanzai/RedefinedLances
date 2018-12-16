@@ -69,7 +69,7 @@
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -92,18 +92,17 @@
             "items" : [
                "unit_light",
                "{CUR_TEAM.faction}",
-               "unit_mech"
+               "unit_mech",
+			   "unit_lance_assassin"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
             "items" : [
-               "unit_lance_vanguard",
-			   "unit_lance_assassin",
                "unit_noncombatant",			   
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -126,18 +125,17 @@
             "items" : [
                "unit_light",
                "{CUR_TEAM.faction}",
-               "unit_mech"
+               "unit_mech",
+			   "unit_lance_assassin",
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
          "excludedUnitTagSet" : {
             "items" : [
-               "unit_lance_vanguard",
-			   "unit_lance_support",
                "unit_noncombatant",
 			   "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
