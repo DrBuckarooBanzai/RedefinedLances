@@ -1,7 +1,7 @@
 {
    "VehicleTags": {
       "items": [
-         "unit_vehicle",
+         "unit_vehicle",		 "unit_release",
          "unit_assault",
          "unit_tracks",
 		 "MagistracyOfCanopus",

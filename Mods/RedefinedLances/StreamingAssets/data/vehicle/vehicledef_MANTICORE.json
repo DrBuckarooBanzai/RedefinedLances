@@ -1,10 +1,9 @@
 {
    "VehicleTags": {
       "items": [
-         "unit_vehicle",
+         "unit_vehicle",		 "unit_release",
          "unit_heavy",
          "unit_tracks",
-		 "unit_release",
 		 "unit_rare",
 		 "MagistracyOfCanopus",
 		 "TaurianConcordat",
