@@ -1,11 +1,10 @@
 {
     "MechTags": {
         "items": [
-            "unit_mech",
+            "unit_mech",			"unit_release",
             "unit_medium",
             "unit_lance_vanguard",
             "unit_role_scout",
-            "unit_release",		
 			"Liao"
         ]
     }

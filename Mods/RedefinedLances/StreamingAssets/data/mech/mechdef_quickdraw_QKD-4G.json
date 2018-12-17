@@ -2,7 +2,7 @@
     "MechTags": {
         "items": [
             "unit_indirectFire",
-            "unit_mech",
+            "unit_mech",			"unit_release",
             "unit_heavy",
             "unit_jumpOK",
             "unit_lance_vanguard",
