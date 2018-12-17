@@ -1,8 +1,7 @@
 {
     "MechTags": {
         "items": [
-            "unit_mech",
-            "unit_medium",
+            "unit_mech",			"unit_release",            "unit_medium",
             "unit_role_sniper",
             "unit_lance_support",
             "unit_dlc",

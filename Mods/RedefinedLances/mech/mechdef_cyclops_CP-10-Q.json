@@ -1,7 +1,7 @@
 {
     "MechTags": {
         "items": [
-            "unit_mech",
+            "unit_mech",			"unit_release",
             "unit_assault",
             "unit_indirectFire",
             "unit_role_brawler",
