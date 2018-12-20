@@ -105,6 +105,7 @@
                "unit_assault",
                "unit_heavy",
                "unit_noncombatant",
+			   "unit_LosTech",
 			   "unit_none_{CUR_TEAM.faction}",
                "unit_urbie"
             ],
