@@ -6,9 +6,22 @@
 			"unit_indirectFire",
             "unit_lance_support",
             "unit_role_sniper",
-			"Steiner",
-			"AuriganMercenaries",	
-			"MercenaryReviewBoard"
+			"unit_none_MagistracyOfCanopus",
+			"unit_none_TaurianConcordat",
+			"unit_none_Liao",
+			"unit_none_Marik",
+			"unit_none_Davion",
+			"unit_common_Steiner"
+			"unit_none_Kurita",
+			"unit_none_ComStar",
+			"unit_none_AuriganDirectorate",	
+			"unit_none_Betrayers",
+			"unit_none_AuriganPirates",
+			"unit_none_AuriganRestoration",
+			"unit_none_Locals",
+			"unit_none_MajestyMetals",
+			"unit_uncommon_MercenaryReviewBoard",
+			"unit_none_NoFaction"
         ]
     }
 }
