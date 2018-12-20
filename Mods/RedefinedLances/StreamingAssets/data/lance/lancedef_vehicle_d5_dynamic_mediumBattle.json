@@ -27,7 +27,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
-               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -35,7 +34,8 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie"
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -57,7 +57,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
-               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -65,9 +64,11 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}",
+					"unit_uncommon_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -89,7 +90,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
-               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -97,9 +97,11 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}",
+					"unit_uncommon_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -121,7 +123,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_medium",
-               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -129,9 +130,10 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

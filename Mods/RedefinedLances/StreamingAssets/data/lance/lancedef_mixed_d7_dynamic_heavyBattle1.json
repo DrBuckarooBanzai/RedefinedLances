@@ -28,7 +28,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
-               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -36,7 +35,8 @@
          "excludedUnitTagSet" : {
             "items" : [
 				"unit_noncombatant",
-				"unit_urbie"
+				"unit_none_{CUR_TEAM.faction}",
+               "unit_urbie"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -59,7 +59,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
-               "{CUR_TEAM.faction}",
                "unit_mech"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -67,9 +66,11 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}",
+					"unit_uncommon_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -91,7 +92,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
-               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -99,9 +99,11 @@
          "excludedUnitTagSet" : {
             "items" : [
 				"unit_noncombatant",
-				"unit_urbie",
+				"unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			    "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}",
+					"unit_uncommon_{CUR_TEAM.faction}"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -123,7 +125,6 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_medium"
             ],
@@ -132,9 +133,10 @@
          "excludedUnitTagSet" : {
             "items" : [
 				"unit_noncombatant",
-				"unit_urbie",
+				"unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			    "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}"
 			],
 
             "tagSetSourceFile" : "Tags/UnitTags"

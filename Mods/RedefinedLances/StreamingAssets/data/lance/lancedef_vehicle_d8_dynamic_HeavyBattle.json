@@ -26,7 +26,6 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "{CUR_TEAM.faction}",
                "unit_vehicle",
 				"unit_assault"
            ],
@@ -34,7 +33,9 @@
          },
          "excludedUnitTagSet" : {
             "items" : [
-               "unit_noncombatant"
+               "unit_noncombatant",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -56,7 +57,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_heavy",
-               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -64,39 +64,44 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie"
-            ],
-            "tagSetSourceFile" : "Tags/UnitTags"
-         },
-         "pilotTagSet" : {
-            "items" : [
-               "pilot_npc_d8"
-            ],
-            "tagSetSourceFile" : "Tags/PilotTags"
-         },
-         "excludedPilotTagSet" : {
-            "items" : null,
-            "tagSetSourceFile" : "Tags/PilotTags"
-         }
-      },
-      {
-         "unitType" : "Vehicle",
-         "unitId" : "Tagged",
-         "pilotId" : "Tagged",
-         "unitTagSet" : {
-            "items" : [
-               "unit_heavy",
-               "{CUR_TEAM.faction}",
-               "unit_vehicle"
-            ],
-            "tagSetSourceFile" : "Tags/UnitTags"
-         },
-         "excludedUnitTagSet" : {
-            "items" : [
-               "unit_noncombatant",
-			   "unit_urbie",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}",
+			   "unit_uncommon_{CUR_TEAM.faction}"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "pilotTagSet" : {
+            "items" : [
+               "pilot_npc_d8"
+            ],
+            "tagSetSourceFile" : "Tags/PilotTags"
+         },
+         "excludedPilotTagSet" : {
+            "items" : null,
+            "tagSetSourceFile" : "Tags/PilotTags"
+         }
+      },
+      {
+         "unitType" : "Vehicle",
+         "unitId" : "Tagged",
+         "pilotId" : "Tagged",
+         "unitTagSet" : {
+            "items" : [
+               "unit_heavy",
+               "unit_vehicle"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "excludedUnitTagSet" : {
+            "items" : [
+               "unit_noncombatant",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
+			   "unit_LosTech",
+			   "unit_rare_{CUR_TEAM.faction}",
+			   "unit_uncommon_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -118,7 +123,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
-               "{CUR_TEAM.faction}",
                "unit_vehicle"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
@@ -127,7 +131,11 @@
             "items" : [
                "unit_light",
                "unit_medium",
-               "unit_noncombatant"
+               "unit_noncombatant",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
+			   "unit_LosTech",
+			   "unit_rare_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
