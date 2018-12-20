@@ -28,7 +28,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_light",
-               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_lance_assassin"
             ],
@@ -37,9 +36,11 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}",
+				"unit_uncommon_{CUR_TEAM.faction}"
             ],
 			"tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -60,7 +61,6 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_lance_vanguard"
             ],
@@ -71,9 +71,11 @@
                "unit_assault",
                "unit_heavy",
                "unit_noncombatant",
-			   "unit_urbie",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}",
+				"unit_uncommon_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -95,7 +97,6 @@
          "unitTagSet" : {
             "items" : [
                "unit_light",
-               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_lance_assassin"
             ],
@@ -104,9 +105,10 @@
          "excludedUnitTagSet" : {
             "items" : [          
                "unit_noncombatant",
-			   "unit_urbie",
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie",
 			   "unit_LosTech",
-			   "unit_Rare"
+			   "unit_rare_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -127,7 +129,6 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-               "{CUR_TEAM.faction}",
                "unit_mech",
                "unit_medium",
 			   "unit_lance_vanguard"			   
@@ -137,7 +138,8 @@
          "excludedUnitTagSet" : {
             "items" : [
                "unit_noncombatant",
-			   "unit_urbie"
+			   "unit_none_{CUR_TEAM.faction}",
+               "unit_urbie"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
