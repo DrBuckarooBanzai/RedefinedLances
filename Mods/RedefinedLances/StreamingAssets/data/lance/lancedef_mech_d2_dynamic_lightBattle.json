@@ -30,7 +30,6 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_light",
-                    "{CUR_TEAM.faction}",
 					"unit_mech"
                 ],
                 "tagSetSourceFile" : "Tags/UnitTags"
@@ -67,7 +66,6 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_light",
-                    "{CUR_TEAM.faction}",
 					"unit_mech",
                     "unit_lance_tank"
                 ],
@@ -105,7 +103,6 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_light",
-                    "{CUR_TEAM.faction}",
 					"unit_mech",
 					"unit_lance_assassin"
                 ],

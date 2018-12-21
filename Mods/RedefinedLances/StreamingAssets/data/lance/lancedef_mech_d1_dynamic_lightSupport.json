@@ -30,7 +30,6 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_light",
-                    "{CUR_TEAM.faction}",
 					"unit_mech",
                     "unit_lance_support"
                 ],
@@ -68,7 +67,6 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_light",
-                    "{CUR_TEAM.faction}",
 					"unit_mech",
                     "unit_lance_support"
                 ],
@@ -78,7 +76,7 @@
                 "items" : [
                     "unit_noncombatant",
                     "unit_none_{CUR_TEAM.faction}",
-               "unit_urbie",
+					"unit_urbie",
 					"unit_LosTech",
 					"unit_rare_{CUR_TEAM.faction}"
                 ],

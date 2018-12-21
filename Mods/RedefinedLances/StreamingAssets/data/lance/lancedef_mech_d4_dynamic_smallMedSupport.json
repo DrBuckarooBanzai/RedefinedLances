@@ -95,7 +95,6 @@
          "pilotId" : "Tagged",
          "unitTagSet" : {
             "items" : [
-              "{CUR_TEAM.faction}",
               "unit_mech",
 			  "unit_lance_support"             
             ],

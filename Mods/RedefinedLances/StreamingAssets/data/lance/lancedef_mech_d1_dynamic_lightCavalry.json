@@ -30,7 +30,6 @@
             "unitTagSet" : {
                 "items" : [
                     "unit_light",
-                    "{CUR_TEAM.faction}",
 					"unit_mech",                    
 					"unit_jumpOK",
 					"unit_lance_support"
@@ -70,7 +69,6 @@
                 "items" : [
                     "unit_jumpOK",
                     "unit_light",
-                    "{CUR_TEAM.faction}",
 					"unit_mech",
                     "unit_lance_assassin"
                 ],
