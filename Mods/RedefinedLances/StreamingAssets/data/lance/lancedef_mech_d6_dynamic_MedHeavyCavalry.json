@@ -72,7 +72,7 @@
                "unit_urbie",
 			   "unit_LosTech",
 			   "unit_rare_{CUR_TEAM.faction}",
-					"unit_uncommon_{CUR_TEAM.faction}"
+			   "unit_uncommon_{CUR_TEAM.faction}"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
@@ -106,8 +106,7 @@
 			   "unit_none_{CUR_TEAM.faction}",
                "unit_urbie",
 			   "unit_LosTech",
-			   "unit_rare_{CUR_TEAM.faction}",
-					"unit_uncommon_{CUR_TEAM.faction}"
+			   "unit_rare_{CUR_TEAM.faction}"			   
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },
