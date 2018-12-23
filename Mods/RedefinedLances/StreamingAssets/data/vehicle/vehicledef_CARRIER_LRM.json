@@ -1,11 +1,11 @@
 {
    "VehicleTags": {
       "items": [
-         "unit_vehicle",		 "unit_release",
-         "unit_heavy",
-         "unit_tracks",
-         "unit_vehicle_carrier",
-		 	"unit_common_MagistracyOfCanopus",
+			"unit_vehicle",			"unit_release",
+			"unit_heavy",
+			"unit_tracks",
+			"unit_vehicle_carrier",
+			"unit_common_MagistracyOfCanopus",
 			"unit_common_TaurianConcordat",
 			"unit_common_Liao",
 			"unit_common_Marik",
