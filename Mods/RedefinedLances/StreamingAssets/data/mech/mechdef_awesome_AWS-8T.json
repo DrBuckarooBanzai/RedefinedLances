@@ -25,5 +25,8 @@
 			"unit_rare_MercenaryReviewBoard",
 			"unit_rare_NoFaction"			
         ]
-    }
+    },
+	"Description": {
+        "Rarity": 6
+	}
 }

@@ -23,5 +23,8 @@
 			"unit_common_MercenaryReviewBoard",
 			"unit_common_NoFaction"			
         ]
-    }
+    },
+	"Description": {
+        "Rarity": 6
+	}
 }

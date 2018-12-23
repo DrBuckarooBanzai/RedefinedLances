@@ -16,6 +16,7 @@
 			"unit_none_ComStar",
 			"unit_none_AuriganDirectorate",	
 			"unit_none_Betrayers",
+			"unit_uncommon_AuriganMercenaries",
 			"unit_none_AuriganPirates",
 			"unit_none_AuriganRestoration",
 			"unit_none_Locals",
@@ -23,5 +24,8 @@
 			"unit_uncommon_MercenaryReviewBoard",
 			"unit_none_NoFaction"
         ]
-    }
+    },
+	"Description": {
+        "Rarity": 6
+	}
 }

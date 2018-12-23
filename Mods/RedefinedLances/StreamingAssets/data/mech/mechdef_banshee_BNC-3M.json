@@ -23,6 +23,9 @@
 			"unit_none_MajestyMetals",
 			"unit_none_MercenaryReviewBoard",
 			"unit_none_NoFaction"
-		]
-    }
+		 ]
+    },
+	"Description": {
+        "Rarity": 6
+	}
 }
