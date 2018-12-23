@@ -8,8 +8,7 @@
 
     "DependsOn": [],
     "ConflictsWith": [],	
-		
 	"Manifest": [
-		{ "Type": "MechDef", "Path": "mech", "ShouldMergeJSON": true, "AddToDB": false }
-    ]	
+		{ "Type": "MechDef", "Path": "mech" }
+	]
 }
